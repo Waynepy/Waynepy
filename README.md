@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bruce — @Waynepy
 
-<!--
-**Waynepy/Waynepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher & bug bounty hunter based in Rio de Janeiro, Brazil.
 
-Here are some ideas to get you started:
+Focused on finding vulnerabilities in production systems across public bug bounty programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Profiles
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-waynezinn-494649?style=flat&logo=hackerone&logoColor=white)](https://hackerone.com/waynezinn?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-waynezinn-F26722?style=flat&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/waynezinn)
+[![X](https://img.shields.io/badge/X-@waynezinnm-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/waynezinnm)
+
+---
+
+### Areas of interest
+
+- Web & API security
+- Source code review
+- Binary analysis
+- Mobile security
+
+---
+
+*Rio de Janeiro, Brazil · Active since 2025*
